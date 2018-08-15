@@ -1,0 +1,7 @@
+﻿  CircleTraderMFCDlg.cpp
+d:\workspace\circletradermfc\circletradermfc\custommdspi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\circletradermfc\circletradermfc\customtradespi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workspace\circletradermfc\circletradermfc\circletradermfcdlg.cpp(293): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\workspace\circletradermfc\circletradermfc\circletradermfcdlg.cpp(308): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\workspace\circletradermfc\circletradermfc\circletradermfcdlg.cpp(359): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  CircleTraderMFC.vcxproj -> D:\workspace\CircleTraderMFC\x64\Debug\CircleTraderMFC.exe

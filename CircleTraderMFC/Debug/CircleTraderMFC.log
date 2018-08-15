@@ -1,0 +1,18 @@
+﻿  CircleTraderMFC.cpp
+d:\最新版\circletradermfc8_7\circletradermfc\custommdspi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\customtradespi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\circletradermfc.cpp(29): warning C4101: “fp”: 未引用的局部变量
+  CircleTraderMFCDlg.cpp
+d:\最新版\circletradermfc8_7\circletradermfc\custommdspi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\customtradespi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\circletradermfcdlg.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+  CustomTradeSpi.cpp
+d:\最新版\circletradermfc8_7\circletradermfc\customtradespi.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\customtradespi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  InstrumentsMap.cpp
+  Strategy1.cpp
+d:\最新版\circletradermfc8_7\circletradermfc\customtradespi.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\最新版\circletradermfc8_7\circletradermfc\strategy1.cpp(159): warning C4244: “=”: 从“TThostFtdcPriceType”转换到“float”，可能丢失数据
+d:\最新版\circletradermfc8_7\circletradermfc\strategy1.cpp(191): warning C4244: “=”: 从“TThostFtdcPriceType”转换到“float”，可能丢失数据
+  正在生成代码...
+  CircleTraderMFC.vcxproj -> D:\最新版\CircleTraderMFC8_7\Debug\CircleTraderMFC.exe
